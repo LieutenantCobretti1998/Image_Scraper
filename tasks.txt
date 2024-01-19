@@ -1,0 +1,6 @@
+Here I wrote what should I do for this project!
+
+1) Write a python script that scrapes the images from unsplash +
+2) the utility should download the highest resolution image that pertains to a given keyword +
+3) premium, watermarked images should be excluded +
+4) extra-practice Api-Based route
